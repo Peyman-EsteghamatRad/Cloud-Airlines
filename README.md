@@ -1,6 +1,8 @@
 # Cloud-Airlines
 Flight Entertaining System
 
+(watch the demo Video)
+
 To use it:
 1. go into client_build/ and exceute: python -m http.server
 2. run DemoApplication.java
